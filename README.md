@@ -1,6 +1,8 @@
 # iphone-13-pro-max
 iphone 13 pro max website 
 
+https://oniseg.github.io/iphone-13-pro-max/
+
 when you change mobile form bottom the whole screen changes to new color 
 
 this is assignment simple website 
